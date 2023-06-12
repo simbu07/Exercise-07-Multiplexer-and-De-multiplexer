@@ -70,8 +70,8 @@ Generate RTL realization and timing diagrams.
 ### PROGRAM
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: Aakashraj M
-RegisterNumber: 212222100002
+Developed by: Silambarasan K
+RegisterNumber: 212221230101
 ```
 ### Multiplexer:
 ```
